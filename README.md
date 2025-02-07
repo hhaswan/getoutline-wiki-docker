@@ -1,6 +1,6 @@
-# Tutorial Penggunaan Docker untuk Outline
+# Install Outline wiki Docker + Auth with Gitlab dan Microsoft Entra
 
-Selamat datang di repositori ini! Di sini, Anda akan menemukan tutorial singkat tentang cara menggunakan Docker untuk mengatur aplikasi Outline.
+Selamat datang di repositori ini! Di sini, Anda akan menemukan tutorial singkat tentang cara install Outline wiki menggunakan Docker lengkap dengan OAUTH Gitlab dan Microsoft Entra.
 
 ## Deskripsi
 
@@ -10,7 +10,7 @@ Tutorial ini mencakup langkah-langkah untuk mengkonfigurasi dan menjalankan Outl
 
 Untuk tutorial lengkap, silakan kunjungi artikel kami di Medium:
 
-[**Tutorial Penggunaan Docker untuk Outline**](https://medium.com/your-article-link)
+[**Tutorial Penggunaan Docker untuk Outline**](https://blog.hasbullahmarwan.com)
 
 ## Kontribusi
 
